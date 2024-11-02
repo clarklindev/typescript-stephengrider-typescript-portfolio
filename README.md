@@ -1,16 +1,19 @@
-## Section 26 - Appendix:Typescript
-
 ### NOTE: section 26: Appendix:Typescript
+
 - Basics of Typescript -77 lessons (77 lessons (5h 41min))
 - NOTE: this section has been extracted to its own repository: [typescript-stephengrider-basics-of-typescript](https://github.com/clarklindev/typescript-stephengrider-basics-of-typescript)
+- moved and labelled as `Section 01 to Section 09 - Basics of Typescript`
 - this section is also covered in courses:
-  - [microservices-with-node-js-and-react](https://www.udemy.com/course/microservices-with-node-js-and-react/) - section 25: appendix B - basics of typescript  
+  - [microservices-with-node-js-and-react](https://www.udemy.com/course/microservices-with-node-js-and-react/) - section 25: appendix B - basics of typescript
   - [typescript-the-complete-developers-guide](https://www.udemy.com/course/typescript-the-complete-developers-guide) - section 01 to section 09
   - [react-and-typescript-build-a-portfolio-project](https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project) - section 26: Appendix:Typescript
-  
+
 ---
 
-### Section 01 - getting started with typescript
+## Section 26 - Appendix:Typescript
+
+### 01 - getting started with typescript
+
 340. Quick Note (1min)
 341. TypeScript Overview (6min)
 342. Environment Setup (8min)
@@ -21,14 +24,16 @@
 347. Catching Errors with TypeScript (7min)
 348. Catching More Errors! (5min)
 
-### Section 02 - What is a type system
+### 02 - What is a type system
+
 349. Course Overview (4min)
 350. Types (5min)
 351. More on Types (6min)
 352. Examples of Types (5min)
 353. Where Do We Use Types? (1min)
 
-### Section 03 - Type annotations in action
+### 03 - Type annotations in action
+
 354. Type Annotations and Inference (2min)
 355. Annotations with Variables (5min)
 356. Object Literal Annotations (7min)
@@ -39,7 +44,8 @@
 361. Delayed Initialization (3min)
 362. When Inference Doesn't Work (5min)
 
-### Section 04 - Annotations with functions and objects
+### 04 - Annotations with functions and objects
+
 363. More on Annotations Around Functions (5min)
 364. Inference Around Functions (6min)
 365. Annotations for Anonymous Functions (2min)
@@ -47,18 +53,21 @@
 367. Destructuring with Annotations (4min)
 368. Annotations Around Objects (7min)
 
-### Section 05 - Mastering Typed Arrays
+### 05 - Mastering Typed Arrays
+
 369. Arrays in TypeScript (5min)
 370. Why Typed Arrays? (5min)
 371. Multiple Types in Arrays (3min)
 372. When to Use Typed Arrays (1min)
 
-### Section 06 - Tuples in Typescript
+### 06 - Tuples in Typescript
+
 373. Tuples in TypeScript (4min)
 374. Tuples in Action (5min)
 375. Why Tuples? (3min)
 
-### Section 07 - The all important interface
+### 07 - The all important interface
+
 376. Interfaces (1min)
 377. Long Type Annotations (5min)
 378. Fixing Annotations with Interfaces (5min)
@@ -67,7 +76,8 @@
 381. Code Reuse with Interfaces (4min)
 382. General Plan with Interfaces (3min)
 
-### Section 08 - Building functionality with classes
+### 08 - Building functionality with classes
+
 383. Classes (4min)
 384. Basic Inheritance (3min)
 385. Class Method Modifiers (7min)
@@ -75,7 +85,8 @@
 387. Fields with Inheritance (4min)
 388. Where to Use Classes (1min)
 
-### Section 09 - Design Patterns with Typescript
+### 09 - Design Patterns with Typescript
+
 389. Updated Parcel Instructions (1min)
 390. App Overview (3min)
 391. Bundling with Parcel (5min)
